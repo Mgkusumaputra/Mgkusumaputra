@@ -1,6 +1,6 @@
 ## <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi Everyone! I'm Garuda
 
-   I'm a student at junior high school, i interested in learning about code and making UI design..
+   I'm a student at junior high school, interested to learning code and making UI design..
 
 **I Code With**
 
