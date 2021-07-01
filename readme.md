@@ -7,13 +7,10 @@
 <li>📬 Lets Connect With Me <a href="https://mgkusumaputra.github.io/Social-Media-Tool">Here!</a></li> 
 
 <h2>Skills And Tools</h2>
-<li>Skills</li> <br>
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<br><br>
-<li>Tools</li> <br>
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
