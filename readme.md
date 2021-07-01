@@ -4,7 +4,7 @@
 <h2>📝 About Me</h2>
 <li>📖 I'm Currently Learning Javascript</li>
 <li>🎒 I'm a Junior High School Student</li>
-<li>📬 Lets Connect With Me <a href="https://mgkusumaputra.github.io/Social-Media-Tool">Here!</a></li> 
+<li>📬 Lets Connect With Me <a href="https://mgkusumaputra.github.io/Social-Media-Link/">Here!</a></li> 
 
 <h2>Skills And Tools</h2>
 <img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
