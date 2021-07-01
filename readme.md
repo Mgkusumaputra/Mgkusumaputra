@@ -14,8 +14,8 @@
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
-
 <br><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkusumaputra&layout=compact&theme=dracula)<br>
 ![Mgkusumaputra GitHub stats](https://github-readme-stats.vercel.app/api?username=mgkusumaputra&show_icons=true&theme=dracula)<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgkusumaputra&theme=dracula)](https://git.io/streak-stats)
