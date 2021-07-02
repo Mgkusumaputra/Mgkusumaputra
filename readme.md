@@ -1,5 +1,5 @@
-<h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi Everyone! I'm Garuda</h1>
-<p>I'm Muhammad Garuda Kusuma P a Beginner Web Developer and Ui/Ux Designer.</p>
+<h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi Everyone! Wellcome</h1>
+<h3>I'm Muhammad Garuda Kusuma P a Beginner Web Developer and Ui/Ux Designer.</h3>
 
 <h2>📝 About Me</h2>
 <li>📖 I'm Currently Learning Javascript</li>
