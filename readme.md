@@ -9,7 +9,7 @@
 <li>📖 I'm Currently Learning MERN Stack</li>
 <li>🎒 I'm a Junior High School Student</li>
 <li>✨ completing an 8 hour course in over 1 month... </li>
-<li>📌 Contributor On @Bellshade </li>
+<li>📌 Contributor On <a href="https://github.com/Bellshade/">@Bellshade</a> </li>
 <li>📬 Lets Connect With Me <a href="https://mgkusumaputra.github.io/Social-Media-Link/">Here!</a></li> 
 
 <h2>Skills And Tools</h2>
