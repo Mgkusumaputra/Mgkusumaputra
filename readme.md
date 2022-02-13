@@ -17,7 +17,7 @@
 <li><b>📬 Lets Connect With Me</b><a href="https://bit.ly/MGKPs-Bio"><b>Here!</b></a></li>
 <br><br>
 
-## Skills And Tools
+## 🛠 Skills And Tools
 
 <div align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,7 +47,7 @@
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"> -->
 
-## Analytics
+## 📊 Analytics
 <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mgkusumaputra&show_icons=true&theme=dracula"/>
 <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=mgkusumaputra&theme=dracula"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgkusumaputra&layout=compact&theme=dracula"/>
