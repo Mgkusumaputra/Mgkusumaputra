@@ -1,4 +1,4 @@
-<h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi Everyone! Welcome</h1>
+<h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="20px"> Hi Everyone! Welcome</h1>
 <h3>I'm Muhammad Garuda Kusuma P a Beginner Full-Stack Developer and UI/UX Designer.</h3>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
