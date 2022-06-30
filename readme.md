@@ -14,7 +14,7 @@
 <li><b>🎒 I'm a Junior High School Student</b></li>
 <li><b>✨ Building simple music bot - </b><a href="https://birdy-music.netlify.app">Birdy Music</a> </li>
 <li><b>📌 Contributor On </b><a href="https://github.com/Bellshade/">@Bellshade</a> </li>
-<li><b>📬 Lets Connect With Me </b><a href="https://bit.ly/MGKPs-Bio">Here!</a></li>
+<li><b>📬 Lets Connect With Me </b><a href="https://mgkusumaputra.my.id/#contact">Here!</a></li>
 <br><br>
 
 ## 🛠 Skills And Tools
