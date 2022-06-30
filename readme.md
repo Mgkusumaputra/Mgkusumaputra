@@ -1,4 +1,5 @@
-<h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="20px"> Hi Everyone! Welcome</h1>
+<!-- <h1> <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="20px"> Hi Everyone! Welcome</h1> -->
+<h1> 👋 Hi Everyone! Welcome</h1>
 <h3>I'm Muhammad Garuda Kusuma P a Beginner Full-Stack Developer and UI/UX Designer.</h3>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -12,7 +13,7 @@
 
 <li><b>📖 I'm Currently Learning MERN Stack</b></li>
 <li><b>🎒 I'm a Junior High School Student</b></li>
-<li><b>✨ Building simple music bot - </b><a href="https://birdy-music.netlify.app">Birdy Music</a> </li>
+<li><b>✨ Building Simple Music Bot - </b><a href="https://birdy-music.netlify.app">Birdy Music</a> </li>
 <li><b>📌 Contributor On </b><a href="https://github.com/Bellshade/">@Bellshade</a> </li>
 <li><b>📬 Lets Connect With Me </b><a href="https://mgkusumaputra.my.id/#contact">Here!</a></li>
 <br><br>
