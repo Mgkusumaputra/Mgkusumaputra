@@ -1,4 +1,4 @@
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hi Everyone! Welcome</h1>
+<h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi Everyone! Welcome</h3>
 <h3>I'm Muhammad Garuda Kusuma P a Beginner Full-Stack Developer and UI/UX Designer.</h3>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
