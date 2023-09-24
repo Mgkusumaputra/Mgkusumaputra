@@ -84,6 +84,7 @@
 <p align="left">
     <a href="https://github.com/mgkusumaputra/haziq"><img alt="Notion" src="https://github-readme-stats.vercel.app/api/pin/?username=mgkusumaputra&repo=haziq&theme=transparent&hide_border=true"></a>
     <a href="https://github.com/mgkusumaputra/social-media-link"><img alt="Notion" src="https://github-readme-stats.vercel.app/api/pin/?username=mgkusumaputra&repo=social-media-link&theme=transparent&hide_border=true"></a>
+    <a href="https://github.com/mgkusumaputra/harli"><img alt="Notion" src="https://github-readme-stats.vercel.app/api/pin/?username=mgkusumaputra&repo=harli&theme=transparent&hide_border=true"></a>
 </p>
 
 <h3>Github Profile Stats</h3>
